@@ -7,7 +7,7 @@ Clone this repo as root in ~/.config
 ```
 ssh login to server
 sudo su
-(If ~/.config does not exist) mkdir ~/.config
+mkdir ~/.config # Optional step if ~/.config does not exist
 cd ~/.config 
 git clone https://github.com/studio-fonkel/powerline-config-ubuntu.git powerline
 ```
