@@ -9,5 +9,5 @@ ssh login to server
 sudo su
 mkdir ~/.config # Optional step if ~/.config does not exist
 cd ~/.config 
-git clone https://github.com/studio-fonkel/powerline-config-ubuntu.git powerline
+git clone https://github.com/studio-fonkel/powerline-config-ubuntu.git .
 ```
